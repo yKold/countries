@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+header {
+    background-color: #B4CBCA;
+    padding: 10px;
+    width: auto;
+    box-shadow: 0px 3px#E4D1E7;
+}
+
+h1#title {
+    margin: 0px;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 1px 1px  #E4D1E7;
+}
+
+table {
+    margin: auto;
+    margin-top: 40px;
+    border-collapse: collapse;
+    width: 50vw;
+}
+
+tr:nth-child(2n) {
+    background-color: #E4D1E7;
+}
+
+th {
+    font-size: larger;
+    color: white;
+    background-color: #B4CBCA;
+    text-shadow: 1px 1px  #E4D1E7;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.flag {
+    text-align: center;
+    
+}
+
+td.name {
+    text-align: center;
+}
+
+.avaliation {
+    text-align: center;
+    font-size: larger;
+}
+
+.opinion {
+    text-align: center;
+}
