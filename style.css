@@ -46,7 +46,10 @@ td, th {
 
 .flag {
     text-align: center;
-    
+}
+
+img {
+    border: 1px solid rgba(0, 0, 0, 0.274);
 }
 
 td.name {
