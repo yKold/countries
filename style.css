@@ -17,6 +17,10 @@ h1#title {
     text-shadow: 1px 1px  #E4D1E7;
 }
 
+div#container {
+    overflow-x: auto;
+}
+
 table {
     margin: auto;
     margin-top: 40px;
